@@ -1,0 +1,56 @@
+== 1.0.0 (Jan 22, 2019) ==
+Initial release
+
+== 1.0.1 (6 March,2019) ==
+* Rewrite serial generation process
+* Add software API
+* Update settings
+* Improve notification
+* Fix bug
+
+== 1.0.2 (15 March,2019) ==
+* Fix upgrade to pro on pro version
+* Fix Divi theme conflict
+* Fix link to create serial number from product page
+
+== 1.0.3 (18 March,2019) ==
+* Fix import wrong activation limit
+* Fix broken asset dependency
+
+== 1.0.4 (1 April,2019) ==
+* Fix Rule generator table pagination is not working
+* Fix Rule generator table search is not working
+* Fix Rule generator is not working Firefox& IE 
+
+== 1.0.6 (6 July,2019) ==
+* Fix - Table create failed below mysql v5.6
+* Fix - Serial number label chancing is not working on order complete page
+* Fix - creating multiple serial number for a single product when order failed
+
+== 1.1.0 (23 July,2020) ==
+* New - Separate page for showing serial enabled products
+* New - Separate page for Serial key import and export
+* New - New settings for template and order-table 
+* New - Option for duplicate serial numbers
+* New - Option for manual delivery 
+* New - Option for serial number back-order
+* Enhance - Random and sequential type for serial key generator
+* Enhance - sequential pointer for sequential serial key generator
+* Enhance - Multiple serial number delivery in single order
+* Enhance - Add generator as serial key source
+* Remove - Add serial key from order
+
+== 1.1.1 (5 August,2020) ==
+* New - Control autocomplete order statuses
+* Fix - CSV import blank date populate with no date
+
+== 1.1.2 (24 August,2020) ==
+* Fix - Compatibility with WP v5.5
+* Fix - Compatibility with WC v 4.4.1
+
+== 1.1.3 (8 September,2020) ==
+* Fix - Compatibility with WP v5.5
+* Fix - Compatibility with WC v 4.4.1
+
+== 1.1.4 (27 September,2020) ==
+* Fix - disconnect serial key bulk action

@@ -1,0 +1,814 @@
+# Copyright (C) 2020 pluginever
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Serial Numbers Pro 1.1.4\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wc-serial-numbers-pro\n"
+"POT-Creation-Date: 2020-09-27 12:16:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:227
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:238
+#: includes/admin/views/html-simple-auto-generated-settings.php:21
+#: includes/admin/views/html-simple-auto-generated-settings.php:32
+msgid "0"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:14
+msgid "Connect serial numbers"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:15
+msgid "Disconnect Serial numbers"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:31
+msgid "Total %d serial numbers added for %d orders."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:38
+msgid "Total %d serial numbers disconnected for %d orders."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:50
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:134
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:215
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:53
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:137
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:218
+msgid "Error: Sorry, you are not allowed to do this."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:149
+msgid "Invalid file type, only TXT allowed."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:156
+msgid "Failed uploading file."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:167
+msgid "Please select product & upload file."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:192
+msgid "Could not find any item to import, please check file."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:203
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:312
+msgid "Total %d serial numbers imported."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:230
+msgid "Invalid file type, only CSV allowed."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:237
+msgid "Failed uploading CSV file."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:274
+msgid "Could not find serial_key columns in the CSV."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:278
+msgid "Could not find product_id columns in the CSV."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-actions.php:297
+msgid "Could not find any item to import, please check CSV file."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:57
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:58
+msgid "Products"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:65
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:66
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:120
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:13
+msgid "Generators"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:73
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:74
+#: includes/admin/views/html-csv-import.php:32
+#: includes/admin/views/html-csv-import.php:122
+msgid "Import"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:81
+#: includes/admin/class-wc-serial-numbers-pro-admin-menus.php:82
+#: includes/admin/views/html-csv-export.php:120
+msgid "Export"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:119
+msgid "Enable this option if this is a serial key enabled."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:120
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:80
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:117
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:121
+msgid "Serial Number"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:141
+msgid "Serial Numbers settings"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:147
+msgid "Delivery quantity"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:148
+msgid "The number of serial key will be delivered per item."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:160
+msgid "Serial Key Source"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:174
+msgid "Software Version"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:175
+msgid "Version number for the software. If its not a software product ignore this."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:176
+msgid "e.g. 1.0"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:185
+msgid "Available"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:190
+msgid "Serial Number available for sale"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:214
+#: includes/admin/views/html-simple-auto-generated-settings.php:8
+msgid "Serial number prefix"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:215
+#: includes/admin/views/html-simple-auto-generated-settings.php:9
+msgid "Optional prefix for generated Serial numbers."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:216
+#: includes/admin/views/html-simple-auto-generated-settings.php:10
+msgid "N/A"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:225
+#: includes/admin/views/html-simple-auto-generated-settings.php:19
+msgid "Activation limit"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:226
+#: includes/admin/views/html-simple-auto-generated-settings.php:20
+msgid ""
+"Amount of activations possible per Serial number. 0 means unlimited. If its "
+"not a software product ignore this."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:236
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:26
+#: includes/admin/views/html-csv-export.php:92
+#: includes/admin/views/html-simple-auto-generated-settings.php:30
+msgid "Validity"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:237
+#: includes/admin/views/html-simple-auto-generated-settings.php:31
+msgid "The number validity in days."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:273
+#: includes/admin/views/html-simple-generator-rule-settings.php:16
+msgid "Generator ID"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-metabox.php:274
+#: includes/admin/views/html-simple-generator-rule-settings.php:17
+msgid ""
+"Select generator source that will be used to generate serial numbers for "
+"the product."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:13
+msgid "Advance Settings."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:15
+msgid "Advance plugin settings."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:20
+msgid "Enable duplicates"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:21
+msgid ""
+"Enable duplicate serial number, this will force to send billing email with "
+"API request [Not Recommended]."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:26
+msgid "Manual Delivery"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:27
+msgid ""
+"This will stop automatically assigning serial numbers with order & you have "
+"to assign manually."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:32
+msgid "Enable Backorder"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:33
+msgid ""
+"This is let the customer to buy serial numbers even without stock and you "
+"can add later for the order."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:37
+msgid "Order Auto Complete statuses"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:38
+msgid "Processing"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:49
+msgid "Pending"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin-settings.php:57
+msgid "On Hold [Not recommended]"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:46
+msgid "Serial Number Activated."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:47
+msgid "Serial Number Deactivated."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:48
+msgid "The Serial Number is empty. Please enter a serial number and try again."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:49
+msgid "Are you sure to generate "
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:50
+msgid " Keys generated successfully."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:51
+msgid "Please, enter a valid number."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:52
+msgid "something, Happened wrong. Please try again."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:60
+msgid "No, cheating"
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:64
+msgid "You are not allowed, to use this."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:70
+msgid "No generator id found."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:74
+msgid "Please specify an amount to generate."
+msgstr ""
+
+#: includes/admin/class-wc-serial-numbers-pro-admin.php:79
+msgid "Generated %d serial number successfully"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:45
+msgid "You must select a product to add generator."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:51
+msgid "You must input a serial number pattern to add generator rule."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:66
+msgid "Generator updated successfully"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:82
+msgid "Generator created successfully."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:123
+msgid "Add Generator Rule"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:129
+#: includes/admin/screen/class-wc-serial-numbers-pro-products-screen.php:20
+msgid "Search"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:182
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:306
+msgid "Update Generator"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:184
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:308
+msgid "Add Generator"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:188
+msgid "Back"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:199
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:72
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:109
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:113
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:23
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:132
+#: includes/admin/views/html-csv-export.php:13
+#: includes/admin/views/html-csv-import.php:68
+msgid "Product"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:207
+#: includes/admin/views/html-csv-import.php:74
+msgid "The product to which the serial number will be assigned."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:214
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:22
+msgid "Pattern"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:220
+msgid ""
+"#'s will be replaced by random/sequential characters and Y, m and d within "
+"{} will be replaced with the year, month and date."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:227
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:24
+msgid "Type"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:235
+msgid "Random"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:236
+msgid "Sequential"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:243
+msgid "Select how serial numbers will be generated."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:251
+msgid "Sequential Pointer"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:256
+msgid ""
+"Current location of the sequential order pointer, Do not change unless you "
+"know what you are doing."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:266
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:94
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:133
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:25
+#: includes/admin/views/html-csv-export.php:77
+#: includes/admin/views/html-csv-import.php:81
+msgid "Activation Limit"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:271
+#: includes/admin/views/html-csv-import.php:87
+msgid ""
+"Maximum number of times the key can be used to activate the software. If "
+"the product is not software keep blank."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:278
+#: includes/admin/views/html-csv-import.php:95
+msgid "Validity (days)"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:283
+#: includes/admin/views/html-csv-import.php:100
+msgid "The number of days the key will be valid for after the purchase date."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:290
+#: includes/admin/views/html-csv-import.php:107
+msgid "Expires at"
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-generators-screen.php:294
+#: includes/admin/views/html-csv-import.php:112
+msgid ""
+"After this date the key will not be assigned with any order. Leave blank "
+"for no expire date."
+msgstr ""
+
+#: includes/admin/screen/class-wc-serial-numbers-pro-products-screen.php:13
+msgid "Serial Number Products"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:14
+msgid "Template"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:29
+msgid "Template Settings."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:31
+msgid "The following options affects how the serial numbers will show its data.."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:35
+msgid "Low stock message"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:37
+msgid ""
+"When \"Sell From Stock\" enabled and there is not enough items in "
+"<br/>stock the message will appear on checkout page. Supported tags "
+"{product_title}, {stock_quantity}"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:41
+msgid ""
+"Sorry, There is not enough Serial Numbers available for {product_title}, "
+"Please remove this item or lower the quantity, For now we have "
+"{stock_quantity} Serial Number for this product."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:44
+msgid "Pending  notification"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:46
+msgid ""
+"When Order is completed but no serial numbers assigned the message will "
+"appear."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:50
+msgid "Order waiting for assigning serial numbers."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:57
+msgid "Order Table Settings."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:59
+msgid ""
+"The following options affects how the serial numbers will show on thank you "
+"page & in email."
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:64
+msgid "Heading"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:67
+msgid "This will appear above the serial numbers table"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:68
+msgid "Serial Numbers"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:71
+msgid "Order Table Columns"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:87
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:125
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:129
+msgid "Activation Email"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:101
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:145
+#: includes/admin/views/html-csv-export.php:97
+msgid "Expire Date"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:112
+msgid "Product name column heading"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:120
+msgid "Key column heading"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:128
+msgid "Email column heading"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:136
+msgid " Activation Limit column heading"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:137
+msgid " Activation Limit"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:141
+msgid "Activation Date"
+msgstr ""
+
+#: includes/admin/settings/wc-serial-numbers-settings-template.php:144
+msgid "Expire Date column heading"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:12
+msgid "Generator"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:27
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:120
+msgid "Generate"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:69
+msgid "Unlimited"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:73
+msgid "Lifetime"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:102
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:103
+#: includes/admin/tables/class-wc-serial-numbers-pro-generators-list-table.php:139
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:33
+msgid "product"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:34
+msgid "products"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:117
+msgid "Set Source \"Automatic\""
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:118
+msgid "Set Source \"Manual\""
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:133
+msgid "Price"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:134
+msgid "Stock"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:135
+msgid "Sold"
+msgstr ""
+
+#: includes/admin/tables/class-wc-serial-numbers-pro-products-list-table.php:136
+msgid "Source"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:3
+msgid "Export Serial Number"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:19
+msgid "Select product to narrow your export."
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:27
+#: includes/admin/views/html-csv-export.php:87
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:32
+msgid "All"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:37
+msgid "Limit export to specific serial number status."
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:45
+#: includes/admin/views/html-csv-export.php:82
+msgid "Order ID"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:50
+msgid "Limit export to specific order. Use comma for multiple orders."
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:59
+msgid "Fields"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:67
+msgid "Serial Key"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:72
+msgid "Product ID"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:102
+msgid "Order Date"
+msgstr ""
+
+#: includes/admin/views/html-csv-export.php:106
+msgid "Customer Name"
+msgstr ""
+
+#: includes/admin/views/html-csv-import-greet.php:2
+msgid ""
+"Hi there! Upload a CSV file containing Serial Number to import the serial "
+"numbers into your shop."
+msgstr ""
+
+#: includes/admin/views/html-csv-import-greet.php:3
+msgid "Choose a CSV (.csv) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/admin/views/html-csv-import-greet.php:4
+msgid ""
+"Visit our <a target=\"_blank\" href=\"%s\">documentation</a> to learn about "
+"the importer."
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:3
+msgid "Import Serial Number"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:5
+msgid "Import Serial Numbers From CSV File"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:6
+msgid ""
+"Upload a CSV file containing Serial Number to import the serial numbers. "
+"Download %s sample file %s to learn how to format your CSV file"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:17
+msgid "CSV File"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:22
+msgid "CSV file containing serial numbers."
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:44
+msgid "Import Serial Numbers From .txt File"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:45
+msgid ""
+"Upload a TXT file containing Serial Numbers & select product from below to "
+"import. Download %s sample file %s to learn how to format your TXT file"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:55
+msgid "Text File"
+msgstr ""
+
+#: includes/admin/views/html-csv-import.php:60
+msgid "Text file containing serial numbers."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:238
+#: includes/edd-client/EDD_Client_Init.php:287
+#: includes/edd-client/EDD_Client_Init.php:318
+#: includes/edd-client/EDD_Client_Init.php:350
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:253
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:261
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:266
+msgid "Invalid license."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:272
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:277
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Init.php:282
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Updater.php:179
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" "
+"class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Updater.php:186
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" "
+"class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a "
+"href=\"%4$s\">update now</a>."
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Updater.php:326
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/edd-client/EDD_Client_Updater.php:326
+msgid "Error"
+msgstr ""
+
+#: wc-serial-numbers-pro.php:140
+msgid ""
+"<strong>WooCommerce Serial Numbers Pro</strong> requires "
+"<strong>WooCommerce Serial Numbers</strong> installed and activated. Please "
+"Install %s WooCommerce Serial Numbers. %s"
+msgstr ""
+
+#: wc-serial-numbers-pro.php:173 wc-serial-numbers-pro.php:184
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: wc-serial-numbers-pro.php:302
+msgid "Generator Rule"
+msgstr ""
+
+#: wc-serial-numbers-pro.php:303
+msgid "Auto Generated Serial Number"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Serial Numbers Pro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pluginever.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The best WordPress Plugin to sell license keys, redeem cards and other "
+"secret numbers!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "pluginever"
+msgstr ""
